@@ -1,0 +1,7 @@
+{
+  "name": "glo-ai",
+  "version": "1.0.0",
+  "description": "Appwrite Function: proxies Glo assistant requests to the Gemini API",
+  "type": "module",
+  "main": "src/main.js"
+}
